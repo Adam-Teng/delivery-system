@@ -1,0 +1,56 @@
+[
+    {
+        "address": "tokyo",
+        "balance": 997500,
+        "name": "alice",
+        "passwordHash": "f6e0a1e2ac41945a9aa7ff8a8aaa0cebc12a3bcc981a929ad5cf810a090e11ae",
+        "phoneNum": "123456",
+        "type": "USER",
+        "username": "111"
+    },
+    {
+        "address": "toronto",
+        "balance": 0,
+        "name": "bob",
+        "passwordHash": "9b871512327c09ce91dd649b3f96a63b7408ef267c8cc5710114e629730cb61f",
+        "phoneNum": "234567",
+        "type": "USER",
+        "username": "222"
+    },
+    {
+        "address": "beijing",
+        "balance": 0,
+        "name": "kate",
+        "passwordHash": "556d7dc3a115356350f1f9910b1af1ab0e312d4b3e4fc788d2da63668f36d017",
+        "phoneNum": "345678",
+        "type": "USER",
+        "username": "333"
+    },
+    {
+        "address": "0",
+        "balance": 0,
+        "name": "john",
+        "passwordHash": "3538a1ef2e113da64249eea7bd068b585ec7ce5df73b2d1e319d8c9bf47eb314",
+        "phoneNum": "1111111",
+        "type": "USER",
+        "username": "444"
+    },
+    {
+        "address": "0",
+        "balance": 0,
+        "name": "bill",
+        "passwordHash": "91a73fd806ab2c005c13b4dc19130a884e909dea3f72d46e30266fe1a1f588d8",
+        "phoneNum": "0000000",
+        "type": "USER",
+        "username": "555"
+    },
+    {
+        "address": "0",
+        "balance": 1001200,
+        "name": "manager",
+        "passwordHash": "9834876dcfb05cb167a5c24953eba58c4ac89b1adf57f28f2f9d09af107ee8f0",
+        "phoneNum": "0",
+        "type": "MANAGER",
+        "username": "manager"
+    }
+]
